@@ -1,0 +1,15 @@
+[
+  { "type": "A",      "platform": "side" },
+  { "type": "B",      "platform": "side" },
+  { "type": "C",      "platform": "side" },
+  { "type": "D",      "platform": "side" },
+  { "type": "Joker",  "platform": "side" },
+
+  { "type": "A",      "platform": "center" },
+  { "type": "B",      "platform": "center" },
+  { "type": "C",      "platform": "center" },
+  { "type": "D",      "platform": "center" },
+  { "type": "Joker",  "platform": "center" },
+
+  { "type": "Switch", "platform": "center" }
+]
