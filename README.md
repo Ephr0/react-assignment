@@ -3,6 +3,8 @@
 ## How to run locally
 "npm run dev", then visit localhost:3000.
 
+## Introduction
+
 **Subways of Budapest** is a single-player, grid-based metro-building strategy game inspired by *Next Station: London*, adapted to the Budapest metro network.
 
 The player builds four metro lines across a 10×10 city grid by drawing station cards and placing valid track segments while following strict placement, connectivity, and scoring rules. The goal is to maximize the final score through efficient planning, district coverage, river crossings, and junction creation.
