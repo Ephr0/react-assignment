@@ -1,4 +1,7 @@
-# Subways of Budapest 🚇
+# Subways of Budapest
+
+## How to run locally
+"npm run dev", then visit localhost:3000.
 
 **Subways of Budapest** is a single-player, grid-based metro-building strategy game inspired by *Next Station: London*, adapted to the Budapest metro network.
 
